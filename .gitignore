@@ -119,6 +119,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+neruonal-network/
 # Environments
 .env
 .venv
